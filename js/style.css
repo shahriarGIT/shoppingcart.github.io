@@ -1,0 +1,43 @@
+
+
+#product-list{
+    display: flex;
+}
+
+#shopping-cart{
+    display: flex;
+}
+
+.item{
+    border: 2px solid;
+    border-color: blue;
+    padding: 1% 5%;
+    margin: 0% 3% 3% 0;
+
+    
+}
+
+#priceDiv{
+    border: 2px solid;
+    border-color: green;
+    padding: 1% 3%;
+    margin: 0% 3% 3% 0%;
+    width: 30%;
+    
+}
+
+.cart-item{
+    border: 2px solid;
+    border-color: red;
+    padding: 2%;
+    margin: 0% 3% 3% 0%;
+}
+
+.item-header{
+    text-align: center;
+}
+
+#shopping-cart{
+    color: blue ;
+    
+}
